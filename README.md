@@ -133,7 +133,7 @@ Output:
 
 > Error: x is not defined // note that not defined here and "undefined" in sample 2 are totally different.
 
-- Not defined: We have not initialised the value for variable anywhere in the entire code and in memory space.
+- Not defined: We have not initialised the variable anywhere in the entire code and in memory space.
 - Undefined:
 
 **Hoisting** is a concept which enables us to extract values of variables and functions even before initialising/assigning value without getting _error_
